@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HI3201270916</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_b">BActivity</string>
+    <string name="Activity_B">You\'re in Activity B</string>
+</resources>
